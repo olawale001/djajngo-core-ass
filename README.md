@@ -1,0 +1,1 @@
+# djajngo-core-ass
